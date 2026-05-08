@@ -2,6 +2,8 @@ venv/
 __pycache__/
 *.pyc
 .env
-data/
+# The images folder is ~14GB — excluded from git. Download separately from Kaggle.
+# See README for dataset download instructions.
+data/fashion-dataset/images/
 *.zip
 .DS_Store

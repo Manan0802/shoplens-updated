@@ -1,3 +1,4 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
 streamlit
 pillow
 opencv-python
@@ -6,3 +7,6 @@ torch
 torchvision
 transformers
 faiss-cpu
+ultralytics
+pandas
+scikit-learn
